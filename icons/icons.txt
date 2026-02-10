@@ -1,0 +1,1 @@
+map respective types to their icons
