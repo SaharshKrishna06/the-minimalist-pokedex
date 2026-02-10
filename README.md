@@ -3,7 +3,7 @@ The Minimalist Pokedex
 This project is an attempt to create a webpage that uses API integration(PokeAPI). The overall design of the webpage is Apple-inspired and was meant to be minimalistic.
 The key features of the project include........
 
-1) Light and Dark Modes
+1) Light and Dark Modes:
 A toggle switch is available at the top-right corner of the webpage, which helps in switching between light and dark modes
 Light mode: <img width="1883" height="866" alt="image" src="https://github.com/user-attachments/assets/d80a36ee-b9e0-4271-b2fc-5a68977f034b" />
 Dark mode: <img width="1894" height="875" alt="image" src="https://github.com/user-attachments/assets/b6b19ece-1cae-427a-b98d-c9ea79c6f7c0" />
